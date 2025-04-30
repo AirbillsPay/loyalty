@@ -2,7 +2,7 @@
     "name": "AirBills Loyalty NFT",
     "symbol": "AirBills",
     "description": "NFT for Airbills Users",
-    "image": "https://raw.githubusercontent.com/psolite/nfts/main/hedgeloop/01X.png",
+    "image": "https://raw.githubusercontent.com/psolite/loyalty/refs/heads/main/airbillsNFT.jpg",
     "attributes": [
       {
         "trait_type": "Commumity",
