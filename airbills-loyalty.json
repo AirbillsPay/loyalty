@@ -1,0 +1,21 @@
+{
+    "name": "AirBills Loyalty NFT",
+    "symbol": "AirBills",
+    "description": "NFT for Airbills Users",
+    "image": "https://raw.githubusercontent.com/psolite/nfts/main/hedgeloop/01X.png",
+    "attributes": [
+      {
+        "trait_type": "Commumity",
+        "value": "SuperTeamNG"
+       },
+       {
+        "trait_type": "Designer",
+        "value": "@darkprincethird"
+       },
+       {
+        "trait_type": "ParnterShip",
+        "value": "Verxio"
+       }
+    ]
+  }
+  
