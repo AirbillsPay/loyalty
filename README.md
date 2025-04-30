@@ -1,0 +1,1 @@
+## Loyalty NFT Metadata
