@@ -4,9 +4,9 @@
     "description": "NFT for Airbills Users",
     "image": "https://raw.githubusercontent.com/psolite/loyalty/refs/heads/main/airbillsNFT.jpg",
     "attributes": [
-      {
-        "trait_type": "Commumity",
-        "value": "SuperTeamNG"
+       {
+        "trait_type": "Loyalty",
+        "value": "AirBills"
        },
        {
         "trait_type": "Designer",
