@@ -9,11 +9,7 @@
         "value": "AirBills"
        },
        {
-        "trait_type": "Designer",
-        "value": "@darkprincethird"
-       },
-       {
-        "trait_type": "ParnterShip",
+        "trait_type": "PoweredBy",
         "value": "Verxio"
        }
     ]
